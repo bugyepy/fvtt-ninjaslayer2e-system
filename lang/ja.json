@@ -1,0 +1,32 @@
+{
+  "NINJA_SLAYER_2E": {
+    "Ability": {
+      "Karate": "カラテ",
+      "Wazamae": "ニューロン",
+      "Neuron": "ワザマエ",
+      "Jitu": "ジツ"
+    },
+    "SheetLabels": {
+      "Actor": "Ninja Slayer 2e Actor Sheet",
+      "Item": "Ninja Slayer 2e Item Sheet"
+    },
+    "Effect": {
+      "Source": "Source",
+      "Toggle": "Toggle Effect",
+      "Temporary": "Temporary Effects",
+      "Passive": "Passive Effects",
+      "Inactive": "Inactive Effects"
+    }
+  },
+
+  "TYPES": {
+    "Actor": {
+      "character": "Character",
+      "npc": "NPC"
+    },
+    "Item": {
+      "item": "Item",
+      "feature": "Feature"
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "ninjaslayer2e",
+  "title": "Ninja Slayer TRPG Second Edition",
+  "description": "A forbidden system to unleash the Ninja Slayer Second Edition upon the digital killing floor of Foundry Virtual Tabletop.",
+  "version": "X.X.X",
+  "compatibility": {
+    "minimum": 11.315,
+    "verified": 11.315
+  },
+  "authors": [
+    {
+      "name": "bugyepy"
+    }
+  ],
+  "esmodules": ["module/index.mjs"],
+  "styles": ["css/main.css"],
+  "languages": [
+    {
+      "lang": "ja",
+      "name": "Japanese",
+      "path": "lang/ja.json"
+    }
+  ],
+  "packs": [],
+  "packFolders": []
+}

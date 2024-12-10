@@ -10,6 +10,12 @@
       "Actor": "Ninja Slayer 2e Actor Sheet",
       "Item": "Ninja Slayer 2e Item Sheet"
     },
+    "Item": {
+      "Spell": {
+        "SpellLVL": "Level {level} Spells",
+        "AddLVL": "Add LVL {level}"
+      }
+    },
     "Effect": {
       "Source": "Source",
       "Toggle": "Toggle Effect",
@@ -26,7 +32,8 @@
     },
     "Item": {
       "item": "Item",
-      "feature": "Feature"
+      "feature": "Feature",
+      "spell": "Spell"
     }
   }
 }
